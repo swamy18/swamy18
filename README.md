@@ -22,8 +22,8 @@
 ## 💼 What I Do
 
 - 🤖 **Build Production-Grade AI Systems** — Develop end-to-end machine learning pipelines from research to deployment
-- 🧠 **Emotionally Intelligent AI** — Founder of Friday AI, creating advanced emotion recognition systems with multi-modal capabilities
-- ⚡ **Performance Optimization** — Reduce inference costs by 40% and latency by 60% through CUDA kernel optimization and intelligent caching
+- 🧠 **Cracked AI Startup** — Founder of Friday AI, creating advanced AI Frameworks,Models & systems with multi-modal capabilities
+- ⚡ **Performance Optimization** — Reduce inference costs by 30% and latency by 50% through CUDA kernel optimization and intelligent caching
 - 🎯 **Scalable ML Pipelines** — Design and deploy distributed training systems, model quantization, and production-ready frameworks
 - 📊 **Data Engineering** — Build robust ETL pipelines processing millions of data samples with quality validation
 - 🚀 **Technical Leadership** — Lead AI research initiatives, system architecture, and product strategy development
