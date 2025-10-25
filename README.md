@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Swami+Gadila;AI+Founder+%7C+Machine+Learning+Engineer;Transforming+Workflow+into+Intelligence;Building+Friday+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Swami+Gadila;AI+Founder+%7C+Machine+Learning+Engineer" alt="Typing SVG" />
 
 </div>
 
