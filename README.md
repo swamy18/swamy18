@@ -12,20 +12,43 @@
 |---|---|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
 | **ML Frameworks/Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **AI Specializations** | Deep Learning • Natural Language Processing • Computer Vision • RLHF • JEPA • Mixture-of-Reasoning • Emotion AI • Model Quantization • Pruning • Optimization • Synthetic Data Generation |
-| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **Data Engineering** | ETL Pipeline Design • Apache Spark • MySQL • PostgreSQL • NoSQL (MongoDB) • Query Optimization • Big Data Processing |
-| **Tools & Technologies** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
+| **AI Specializations** | LLMs • RAG Pipelines • NLP • Computer Vision • RLHF • Model Quantization • Pruning • Optimization • Drift Detection • A/B Testing • Model Evaluation |
+| **Backend & APIs** | FastAPI • Django • REST APIs • GraphQL • WebSockets • Async Processing |
+| **Frontend** | React • TypeScript |
+| **Databases** | PostgreSQL • pgvector • Redis |
+| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) Docker • Kubernetes • CI/CD |
+| **Data Engineering** | PySpark • ETL Pipelines • Feature Engineering • Query Optimization |
 
 ---
 
 ## 💼 What I Do
 
-- 🤖 **Build Production-Grade AI Systems** — Develop end-to-end machine learning pipelines from research to deployment
-- ⚡ **Performance Optimization** — Reduce inference costs by 30% and latency by 50% through CUDA kernel optimization and intelligent caching
-- 🎯 **Scalable ML Pipelines** — Design and deploy distributed training systems, model quantization, and production-ready frameworks
-- 📊 **Data Engineering** — Build robust ETL pipelines processing millions of data samples with quality validation
-- 🚀 **Technical Leadership** — Lead AI research initiatives, system architecture, and product strategy development
+- 🤖 **Build Production AI Systems** — End-to-end systems from LLM orchestration → APIs → frontend dashboards  
+- ⚡ **Optimize AI Performance** — Reduced inference latency by **40%** using quantization and batching  
+- 🎯 **Reliable ML Systems** — Built evaluation frameworks (15+ metrics), drift detection, and A/B testing infra  
+- 📊 **RAG & LLM Systems** — Designed retrieval pipelines, embeddings, reranking, and hallucination control  
+- 🚀 **AI Infrastructure** — Async pipelines, rate limiting, monitoring, and production-grade reliability  
+
+---
+
+## 🚀 Key Projects
+
+### 🔹 ACL — Production AI Platform
+- AI middleware that filters and refines LLM outputs in real time  
+- LLM orchestration: routing, prompts, retries, streaming  
+- Improved task reliability **50% → 95%**  
+- **150+ users in 12 hours**
+
+### 🔹 AI Customer Support (RAG)
+- Full stack app (FastAPI + React + pgvector)  
+- Semantic search + reranking + context optimization  
+- Reduced hallucination and improved answer accuracy  
+
+### 🔹 AI Drift Detection System
+- KS test, PSI, embedding distance monitoring  
+- Automated rollback with feature flags  
+- Detected failures within **48 hours**
+
 ---
 
 ## 🤝 Let's Connect & Collaborate
