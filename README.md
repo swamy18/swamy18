@@ -31,25 +31,6 @@
 
 ---
 
-## 🚀 Key Projects
-
-### 🔹 ACL — Production AI Platform
-- AI middleware that filters and refines LLM outputs in real time  
-- LLM orchestration: routing, prompts, retries, streaming  
-- Improved task reliability **50% → 95%**  
-- **150+ users in 12 hours**
-
-### 🔹 AI Customer Support (RAG)
-- Full stack app (FastAPI + React + pgvector)  
-- Semantic search + reranking + context optimization  
-- Reduced hallucination and improved answer accuracy  
-
-### 🔹 AI Drift Detection System
-- KS test, PSI, embedding distance monitoring  
-- Automated rollback with feature flags  
-- Detected failures within **48 hours**
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
