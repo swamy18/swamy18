@@ -15,8 +15,8 @@
 | **AI Specializations** | LLMs • RAG Pipelines • NLP • Computer Vision • RLHF • Model Quantization • Pruning • Optimization • Drift Detection • A/B Testing • Model Evaluation |
 | **Backend & APIs** | FastAPI • Django • REST APIs • GraphQL • WebSockets • Async Processing |
 | **Frontend** | React • TypeScript |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) pgvector • Redis |
-| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) Docker • Kubernetes • CI/CD |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4B8BBE?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white) |
 | **Data Engineering** | PySpark • ETL Pipelines • Feature Engineering • Query Optimization |
 
 ---
