@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:swamygadila04@gmail.com)
 
 📍 Hyderabad, India  
-💼 Currently working at Malcor and I am a Full-stack AI Engineer.
+💼 Currently working at Mercor and I am a Full-stack AI Engineer.
 
 ---
 
