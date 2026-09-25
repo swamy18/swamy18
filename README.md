@@ -1,43 +1,33 @@
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=Swamy+Gadila;Full+Stack+AI+Engineer+%7C+Machine+Learning+Engineer" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="assets/dino-run.svg" alt="A pixel-art dinosaur that keeps running, Chrome dino-game style" width="880" />
 </div>
 
 ---
 
-## 🛠️ Skills Matrix
+## 🛠️ Languages
 
-| **Category** | **Technologies** |
-|---|---|
-| **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) |
-| **ML Frameworks/Libraries** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/🤗_Hugging_Face-FFD21E?style=flat-square) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) |
-| **AI Specializations** | LLMs • RAG Pipelines • NLP • Computer Vision • RLHF • Model Quantization • Pruning • Optimization • Drift Detection • A/B Testing • Model Evaluation |
-| **Backend & APIs** | FastAPI • Django • REST APIs • GraphQL • WebSockets • Async Processing |
-| **Frontend** | React • TypeScript |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4B8BBE?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Cloud Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white) |
-| **Data Engineering** | PySpark • ETL Pipelines • Feature Engineering • Query Optimization |
+| **Languages** |
+|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-DEA584?style=flat-square&logo=rust&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) |
 
 ---
 
-## 💼 What I Do
+## 🌌 What I Do
 
-- 🤖 **Build Production AI Systems** — End-to-end systems from LLM orchestration → APIs → frontend dashboards  
-- ⚡ **Optimize AI Performance** — Reduced inference latency by **40%** using quantization and batching  
-- 🎯 **Reliable ML Systems** — Built evaluation frameworks (15+ metrics), drift detection, and A/B testing infra  
-- 📊 **RAG & LLM Systems** — Designed retrieval pipelines, embeddings, reranking, and hallucination control  
-- 🚀 **AI Infrastructure** — Async pipelines, rate limiting, monitoring, and production-grade reliability  
+I'm a **Full-Stack AI Engineer** — I live where **machine learning** meets **full-stack engineering**. By day I'm shaping tensors and taming models; by night I'm wiring the APIs, pipelines, and interfaces that carry them into the real world. From the raw math at the bottom of the stack to the pixel someone taps at the top, I build the whole bridge.
+
+Beyond the editor, I'm an **independent researcher** wandering the open fields of **physics and mathematics** — chasing the questions that never ship to production, but quietly change how everything else gets built.
 
 ---
-
 
 ## 🤝 Let's Connect & Collaborate
 
 <div align="center">
-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SwamyGadila18)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:swamygadila04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamygadila/)
-
 </div>
