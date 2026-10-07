@@ -1,4 +1,4 @@
-# Hi, I'm Swami
+# Hi, I'm Swamy
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/SwamyGadila18)
 [![LinkedIn](https://img.shields.io/badge/-Swamy--Gadila-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swamygadila)
