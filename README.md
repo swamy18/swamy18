@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I work as a **Full-stack AI Engineer**. I train models, build AI agents, and research new architectures and experimental technologies. Alongside this, I work in physics and mathematics as an independent researcher.
+I work as a **AI Engineer**. I train models, build AI agents, and research new architectures and experimental technologies. Alongside this, I work in physics and mathematics as an independent researcher.
 
 ---
 
